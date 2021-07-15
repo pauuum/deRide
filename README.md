@@ -1,2 +1,0 @@
-# deRide
-Proyecto Final Interactivas
